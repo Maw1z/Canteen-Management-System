@@ -13,7 +13,7 @@ I made this project in highschool last year (2022), this was a final assigment w
 
 ## Prerequisites
 
-- Python 3.x
+- Python 3.10
 - Tkinter (usually included with Python)
 - MySQL
 - `mysql-connector-python` library
